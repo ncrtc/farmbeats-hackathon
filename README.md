@@ -5,11 +5,19 @@
 https://github.com/farmbeatslabs/businesskit/tree/master/Indoor-m1
 
 
-### Challenge #2 - Deploy FarmBeats Azure Service
+### Challenge #2 - Deploy and configure FarmBeats Azure Service
 
-Use the following guide for deploying FarmBeats:
+1. Use the following guide for deploying FarmBeats:
 
-https://docs.microsoft.com/en-us/azure/industry/agriculture/install-azure-farmbeats
+   https://docs.microsoft.com/en-us/azure/industry/agriculture/install-azure-farmbeats
+   
+2. Create a Farm:
+
+   https://docs.microsoft.com/en-us/azure/industry/agriculture/manage-farms-in-azure-farmbeats
+   
+3. Generate Maps:
+
+   https://docs.microsoft.com/en-us/azure/industry/agriculture/generate-maps-in-azure-farmbeats
 
 
 ### Challenge #3 - Implement Partner Ingegration of Indoor Kit 
