@@ -1,7 +1,7 @@
 # FarmBeats Hackathon
 
 
-### Challenge #1 - Collect Telemetery with FarmBeats 
+### Challenge #1 - Partner Simulation - Collect Telemetery with FarmBeats 
 
 
 ### Indoor-m1 kit
