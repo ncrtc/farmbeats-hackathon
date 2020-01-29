@@ -6,7 +6,7 @@
 
 1. Assemble the FarmBeats Business Kit
 
-https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/1b_Assemble_your_FarmBeats_Student_Kit_Hardware.md
+   https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/1b_Assemble_your_FarmBeats_Student_Kit_Hardware.md
 
 
 ### Challenge #2 - Deploy and configure FarmBeats Azure Service
