@@ -1,5 +1,6 @@
 # FarmBeats Hackathon
 
+
 ### Challenge #1 - Collect Telemetery with FarmBeats Indoor-m1 kit
 
 https://github.com/farmbeatslabs/businesskit/tree/master/Indoor-m1
@@ -7,7 +8,7 @@ https://github.com/farmbeatslabs/businesskit/tree/master/Indoor-m1
 
 ### Challenge #2 - Deploy and configure FarmBeats Azure Service
 
-1. Use the following guide for deploying FarmBeats:
+1. Use the following guide to deploy the Azure FarmBeats service:
 
    https://docs.microsoft.com/en-us/azure/industry/agriculture/install-azure-farmbeats
    
