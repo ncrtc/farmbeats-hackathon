@@ -4,15 +4,22 @@
 
 https://github.com/farmbeatslabs/businesskit/tree/master/Indoor-m1
 
+
 ### Challenge #2 - Deploy FarmBeats Azure Service
+
 
 ### Challenge #3 - Implement Partner Ingegration of Indoor Kit 
 
 Overview: https://docs.microsoft.com/en-us/azure/industry/agriculture/sensor-partner-integration-in-azure-farmbeats
 
+
 #### 1. Enable device integration with FarmBeats
 
-Generate credentials: https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner#enable-device-integration-with-farmbeats
+1. Follow process for generating credential: 
+
+https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner#enable-device-integration-with-farmbeats
+
+1. Follow process for generating credential: 
 
 #### 2. Create Device Model and Sensor Models for IndoorM1
 
