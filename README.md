@@ -13,6 +13,10 @@
    
 ### Azure Iot Dev Kit
 
+1. Connect an MXChip IoT DevKit device to your Azure IoT Central application
+
+    https://docs.microsoft.com/en-us/azure/iot-central/core/howto-connect-devkit
+
 
 ### Challenge #2 - Deploy and configure FarmBeats Azure Service
 
@@ -57,9 +61,11 @@ TBD
 1. Create event hub
 2. Add export in IoT Central
 
-#### 5. Create Azure Function transform and forward into FarmBeats Service
+#### 5. Create Azure Function to transform and forward into FarmBeats Service
 
-See Reference Implementation: TBD
+See Reference Implementation:
+
+    https://github.com/rutzsco/farmbeats-partner-accelerator/tree/develop
 
 ### Challenge #4 - Experiment with AI and Analytics via DataHub
 
