@@ -1,6 +1,7 @@
 # FarmBeats Hackathon
 
 
+
 ### Challenge #1 - Partner Simulation - Collect Telemetery with FarmBeats 
 
 
@@ -18,6 +19,7 @@
     https://docs.microsoft.com/en-us/azure/iot-central/core/howto-connect-devkit
 
 
+
 ### Challenge #2 - Deploy and configure FarmBeats Azure Service
 
 1. Use the following guide to deploy the Azure FarmBeats service:
@@ -31,6 +33,7 @@
 3. Generate Maps:
 
    https://docs.microsoft.com/en-us/azure/industry/agriculture/generate-maps-in-azure-farmbeats
+
 
 
 ### Challenge #3 - Implement Partner Ingegration of Indoor Kit 
@@ -66,6 +69,7 @@ TBD
 See Reference Implementation:
 
     https://github.com/rutzsco/farmbeats-partner-accelerator/tree/develop
+
 
 ### Challenge #4 - Experiment with AI and Analytics via DataHub
 
