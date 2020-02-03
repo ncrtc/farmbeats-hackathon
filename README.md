@@ -73,5 +73,7 @@ See Reference Implementation:
 
 ### Challenge #4 - Experiment with AI and Analytics via DataHub
 
+Leverage the Timeseries Insights, Blob storage, and DataHub API to create advanced analytics.
+
 
 
