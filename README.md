@@ -1,5 +1,6 @@
 # FarmBeats Hackathon
 
+The FarBeats Hackathon provides a series of challanges learn about the [Azure FarmBeats](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftfarmbeats.microsoft_farmbeats?tab=Overview) service through hands-on experimentation.
 
 
 ## Challenge #1 - Partner Simulation - Collect Telemetery with FarmBeats 
