@@ -2,7 +2,7 @@
 
 
 
-### Challenge #1 - Partner Simulation - Collect Telemetery with FarmBeats 
+## Challenge #1 - Partner Simulation - Collect Telemetery with FarmBeats 
 
 
 ### Indoor-m1 kit
@@ -20,7 +20,7 @@
 
 
 
-### Challenge #2 - Deploy and configure FarmBeats Azure Service
+## Challenge #2 - Deploy and configure FarmBeats Azure Service
 
 1. Use the following guide to deploy the Azure FarmBeats service:
 
@@ -36,7 +36,7 @@
 
 
 
-### Challenge #3 - Implement Partner Ingegration of Indoor Kit 
+## Challenge #3 - Implement Partner Ingegration of Indoor Kit 
 
 Overview: https://docs.microsoft.com/en-us/azure/industry/agriculture/sensor-partner-integration-in-azure-farmbeats
 
@@ -71,7 +71,7 @@ See Reference Implementation:
     https://github.com/rutzsco/farmbeats-partner-accelerator/tree/develop
 
 
-### Challenge #4 - Experiment with AI and Analytics via DataHub
+## Challenge #4 - Experiment with AI and Analytics via DataHub
 
 Leverage the Timeseries Insights, Blob storage, and DataHub API to create advanced analytics.
 
