@@ -9,13 +9,13 @@ The FarBeats Hackathon provides a series of challanges learn about the [Azure Fa
 ### Indoor-m1 kit
 
 
-1. Assemble the FarmBeats Business Kit
+1. Assemble the FarmBeats Business Kit:
 
    https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/1b_Assemble_your_FarmBeats_Student_Kit_Hardware.md
    
 ### Azure Iot Dev Kit
 
-1. Connect an MXChip IoT DevKit device to your Azure IoT Central application
+1. Connect an MXChip IoT DevKit device to your Azure IoT Central application:
 
     https://docs.microsoft.com/en-us/azure/iot-central/core/howto-connect-devkit
 
