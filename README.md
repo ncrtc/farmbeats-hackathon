@@ -54,7 +54,16 @@ Overview: https://docs.microsoft.com/en-us/azure/industry/agriculture/sensor-par
 
 #### 2. Create Device Model and Sensor Models for IndoorM1
 
-TBD
+1. Create Device Model
+
+```json
+POST /DeviceModels
+
+{"type":"Node","manufacturer":"Microsoft FarmBeats Business Kit","name":"Indoor-M1","description":"Raspberry Pi with Light, Soil Moisture, Air Temperature, Humidity, and Barometric Pressure sensors.","sensorModels":["Grove Soil Moisture","Grove Ambient Light","Grove Air Pressure","Grove Air Humidity","Grove Air Tempurature"]}
+```
+
+
+
 
 #### 3. Create Device and Sensor enttities for deployed Indoor-m1 instance
 
@@ -64,7 +73,7 @@ TBD
 
 1. Create event hub
 2. Capture the connection string
-2. Add export to event hub in IoT Central
+3. Add export to event hub in IoT Central
 
 #### 5. Create Azure Function to transform and forward into FarmBeats Service
 
