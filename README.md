@@ -67,12 +67,15 @@ Grant Azure Cloud Shell Access to Farm Beats API deployment (https://<datahub>.a
 
 
 1. Open Cloud Shell. This option is available on the toolbar in the upper-right corner of the Azure portal.
+
 ![cloud shell bar](/images/navigation-bar-1.png)
 
 2. Make sure the environment is set to PowerShell. By default, it's set to Bash.
+
 ![cloud shell bar](/images/power-shell-new-1.png)
 
 3. Upload the file from step 1 in your Cloud Shell instance.
+
 ![cloud shell bar](/images/power-shell-two-1.png)
 
 4. Go to the directory where the file was uploaded. By default, files get uploaded to the home directory under the username.
@@ -84,14 +87,9 @@ Run the following script. The script asks for the Tenant ID which can be obtaine
 
 5. Follow the onscreen instructions to capture the values for API Endpoint, Tenant ID, Client ID, Client Secret, and EventHub Connection String.
 
-This step creates a client that has access to your Azure FarmBeats instance as your device partner and provides you with the following values that are required in the subsequent steps:
-API endpoint: This is the Datahub URL, for example, https://<datahub>.azurewebsites.net.
-
 
 _Please review the steps on the [Farm Beats Documentation](https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner#enable-device-integration-with-farmbeats) for additional guiidance._
  
-
-
 
 #### 2. Create Device Model and Sensor Models for Indoor Kit
 
