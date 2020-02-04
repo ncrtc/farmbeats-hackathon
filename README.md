@@ -95,7 +95,56 @@ _Please review the steps on the [Farm Beats Documentation](https://docs.microsof
 
 #### 2. Create Device Model and Sensor Models for Indoor Kit
 
-1. Create Device Model
+1. Create Sensor Models
+
+##### Example POST Requests
+
+```json
+POST /SensorModels
+
+{
+   "type":"Digital",
+   "productCode":"Grove-Air-Tempurature-001",
+   "name":"Grove Air Tempurature",
+   "SensorMeasures":[
+      {
+         "name":"tempurature",
+         "dataType":"Double",
+         "type":"AmbientTemperature",
+         "unit":"Fahrenheit"
+      }
+   ]
+}
+
+```
+
+```json
+POST /SensorModels
+
+{
+   "id":null,
+   "type":"Digital",
+   "productCode":"Grove-Soil-Moisture-001",
+   "name":"Grove Soil Moisture",
+   "SensorMeasures":[
+      {
+         "name":"reading1",
+         "dataType":"Double",
+         "type":"SoilMoisture",
+         "unit":"Percentage"
+      },
+      {
+         "name":"reading2",
+         "dataType":"Double",
+         "type":"SoilMoisture",
+         "unit":"Percentage"
+      }
+   ]
+}
+
+```
+
+2. Create Device Model
 
 ##### Example POST Request
 ```json
@@ -118,11 +167,23 @@ POST /DeviceModels
 ```
 
 
+#### 3. Create Device and Sensor entities for deployed Indoor-m1 instance
 
+1. Create Device
 
-#### 3. Create Device and Sensor enttities for deployed Indoor-m1 instance
+```json
 
 TBD
+
+```
+
+2. Create Sensor
+
+```json
+
+TBD
+
+```
 
 #### 4. Add data export in IoT Central to event hub
 
