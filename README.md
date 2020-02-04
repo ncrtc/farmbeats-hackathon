@@ -56,10 +56,24 @@ Overview: https://docs.microsoft.com/en-us/azure/industry/agriculture/sensor-par
 
 1. Create Device Model
 
+##### Example POST Request
 ```json
 POST /DeviceModels
 
-{"type":"Node","manufacturer":"Microsoft FarmBeats Business Kit","name":"Indoor-M1","description":"Raspberry Pi with Light, Soil Moisture, Air Temperature, Humidity, and Barometric Pressure sensors.","sensorModels":["Grove Soil Moisture","Grove Ambient Light","Grove Air Pressure","Grove Air Humidity","Grove Air Tempurature"]}
+{
+   "type":"Node",
+   "manufacturer":"Microsoft FarmBeats Business Kit",
+   "name":"Indoor-M1",
+   "description":"Raspberry Pi with Light, Soil Moisture, Air Temperature, Humidity, and Barometric Pressure sensors.",
+   "sensorModels":[
+      "Grove Soil Moisture",
+      "Grove Ambient Light",
+      "Grove Air Pressure",
+      "Grove Air Humidity",
+      "Grove Air Tempurature"
+   ]
+}
+
 ```
 
 
