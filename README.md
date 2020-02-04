@@ -126,9 +126,23 @@ POST /DeviceModels
 ```
 
 
-#### 3. Create Device and Sensor enttities for deployed Indoor-m1 instance
+#### 3. Create Device and Sensor entities for deployed Indoor-m1 instance
+
+1. Create Device
+
+```json
 
 TBD
+
+```
+
+2. Create Sensor
+
+```json
+
+TBD
+
+```
 
 #### 4. Add data export in IoT Central to event hub
 
