@@ -63,7 +63,8 @@ TBD
 #### 4. Add data export in IoT Central to event hub
 
 1. Create event hub
-2. Add export in IoT Central
+2. Capture the connection string
+2. Add export to event hub in IoT Central
 
 #### 5. Create Azure Function to transform and forward into FarmBeats Service
 
