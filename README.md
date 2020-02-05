@@ -200,5 +200,9 @@ See Reference Implementation:
 
 Leverage the Timeseries Insights, Blob storage, and DataHub API to create advanced analytics.
 
+## Challenge #5 - Set up the FarmBeats IOT simulator to recreate a historical scenario
+
+https://github.com/rutzsco/farmbeats-hackathon/blob/master/FarmBeats_IOTData_Simulator.pdf
+
 
 
