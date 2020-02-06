@@ -174,16 +174,33 @@ POST /DeviceModels
 1. Create Device
 
 ```json
+POST /Device
 
-{"id":null,"hardwareId":"b827eb2f6557","deviceModelId":"d9b254ed-2531-47b3-bfb8-6007c937fcff","farmId":null,"reportingInterval":300,"location":{"latitude":0.0,"longitude":0.0},"name":"EastChain - Indoor-M1"}
+{
+   "hardwareId":"b827eb2f6557",
+   "deviceModelId":"d9b254ed-2531-47b3-bfb8-6007c937fcff",
+   "farmId":null,
+   "reportingInterval":300,
+   "location":{
+      "latitude":0.0,
+      "longitude":0.0
+   },
+   "name":"EastChain - Indoor-M1"
+}
 
 ```
 
 2. Create Sensor
 
 ```json
+POST /Sensor
 
-{"id":null,"hardwareId":"580cc355-2da0-42e2-8a01-7bc41d6a3725","sensorModelId":"d6a16fc2-26f0-4b8e-88bf-fb27464a55c9","deviceId":"4e4e02bf-261a-429a-b647-51884b350f25","name":"EastChain - Indoor-M1Grove Soil Moisture"}
+{
+   "hardwareId":"580cc355-2da0-42e2-8a01-7bc41d6a3725",
+   "sensorModelId":"d6a16fc2-26f0-4b8e-88bf-fb27464a55c9",
+   "deviceId":"4e4e02bf-261a-429a-b647-51884b350f25",
+   "name":"EastChain - Indoor-M1Grove Soil Moisture"
+}
 
 ```
 
