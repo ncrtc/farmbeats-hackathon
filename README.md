@@ -27,8 +27,9 @@ The FarBeats Hackathon provides a series of challanges to learn about the [Azure
 
    https://docs.microsoft.com/en-us/azure/industry/agriculture/install-azure-farmbeats
    
-   Troubleshooting Notes:
+   *Troubleshooting Notes:*
    
+   > Error: Entry not found in cache.
    > https://social.msdn.microsoft.com/Forums/sharepoint/en-US/5ae1d454-c0d6-4a29-9f09-4e9b9f13ab1d/unable-to-deploy-azure-farmbeats
    
 2. Create a Farm:
