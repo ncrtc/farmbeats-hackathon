@@ -216,7 +216,7 @@ POST /Sensor
 
 See Reference Implementation:
 
-    https://github.com/ncrtc/farmbeats-partner-accelerator/tree/master/Services/FarmBeats.Partner/FarmBeats.Partner.Ingest.BusinessKit
+- [GitHub: farmbeats-partner-accelerator](https://github.com/ncrtc/farmbeats-partner-accelerator/tree/master/Services/FarmBeats.Partner/FarmBeats.Partner.Ingest.BusinessKit)
 
 
 ## Challenge #4 - Experiment with AI and Analytics via DataHub
