@@ -177,7 +177,7 @@ POST /DeviceModels
 POST /Device
 
 {
-   "hardwareId":"b827eb2f6557",
+   "hardwareId":"RASPBERRY PI DEVICE ID GOES HERE",
    "deviceModelId":"d9b254ed-2531-47b3-bfb8-6007c937fcff",
    "farmId":null,
    "reportingInterval":300,
@@ -214,7 +214,7 @@ POST /Sensor
 
 See Reference Implementation:
 
-    https://github.com/rutzsco/farmbeats-partner-accelerator/tree/develop
+    https://github.com/ncrtc/farmbeats-partner-accelerator/tree/master/Services/FarmBeats.Partner/FarmBeats.Partner.Ingest.BusinessKit
 
 
 ## Challenge #4 - Experiment with AI and Analytics via DataHub
