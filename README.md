@@ -3,10 +3,11 @@
 The FarBeats Hackathon provides a series of challanges to learn about the [Azure FarmBeats](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftfarmbeats.microsoft_farmbeats?tab=Overview) service through hands-on experimentation.
 
 
-## Challenge #1 - Partner Simulation - Collect Telemetery with FarmBeats 
+## Challenge #1 - Partner Simulation - Collect Telemetery  
 
+Choose a device that will be used for this hackathon to collect telemetery.
 
-### Indoor-m1 kit
+### FarmBeats Indoor-m1 kit
 
 
 1. Assemble the FarmBeats Business Kit:
