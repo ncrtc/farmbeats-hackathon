@@ -210,6 +210,7 @@ POST /Sensor
 1. Create event hub
 2. Capture the connection string
 3. Add export to event hub in IoT Central
+    - [IoT Central - How to Export Data](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-export-data)
 
 #### 5. Create Azure Function to transform and forward into FarmBeats Service
 
